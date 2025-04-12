@@ -1,11 +1,21 @@
 <!-- Banner Image -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" width="100%" alt="Banner Image" />
+<div align="center border-radius= "20px">
+    <img src="https://images.unsplash.com/photo-1561347981-969c80cf4463?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="Banner Image" />
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Aditya Prasad Shaw</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm Aditya Prasad Shaw</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India</h3>
+
+<div id="header" align="center">  
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp3M3N2NHR0Z2RmbmVqYmZrazI3b241cmhhZTJ5OHp1aHczb2hhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="400"/>
+</div>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;SRMIST'26+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya10-cmd" alt="aditya10-cmd" /></a> </p>
 
